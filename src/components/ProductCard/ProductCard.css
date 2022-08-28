@@ -1,0 +1,28 @@
+.product-card{
+    padding: 2%;
+    width: 200px;
+    height: 370px;
+}
+.product-img{
+    width: 100%;
+    height: 370px;
+}
+.product-details{
+    width: 100%;
+    height: 200px;
+}
+.product-text{
+    font-size: x-small;
+    text-overflow: ellipsis;
+}
+.supplier-name{
+    font-weight: bold;
+    color: rgb(92, 51, 92);
+}
+.price{
+    font-weight: bold;
+}
+.retail-price{
+    font-weight: bold;
+    color: lightslategray;
+}

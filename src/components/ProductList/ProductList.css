@@ -1,0 +1,18 @@
+  .mast-head{
+    background-color: rgb(246, 243, 243);
+    width: 100%;
+    margin-left: 2%;
+    height: 180px;
+    }
+  .item-details{
+    margin-left: 5%;
+    width: 90%;
+  }
+  .search-style{
+    margin-top: 9px;
+    height: 30px;
+    width: 150px;
+  }
+  .header{
+    margin-left: 2%;
+  }
